@@ -1,0 +1,9 @@
+[package]
+name = "d20_system"
+version = "0.1.0"
+authors = ["karabiner31"]
+edition = "2018"
+
+[dependencies]
+rand="*"
+text_io="*"
