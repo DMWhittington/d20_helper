@@ -1,2 +1,2 @@
 # d20_helper
-Tool for rolling dice in d20 games
+Command line tool for rolling dice in d20 games. Mostly, an excuse to play around in Rust.
